@@ -21,7 +21,11 @@ segmentanything/checkpoints/*
 !segmentanything/checkpoints/download_ckpts.sh
 
 # Output/results directories
-annotation_results/
-results_coco_format/
-@completed/
-@discarded/
+annotation_results/*
+!annotation_results/.gitkeep
+results_coco_format/*
+!results_coco_format/.gitkeep
+@completed/*
+!@completed/.gitkeep
+@discarded/*
+!@discarded/.gitkeep
