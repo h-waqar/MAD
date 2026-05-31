@@ -1,0 +1,10 @@
+{
+    "mode": "2",
+    "directory_path": "assets",
+    "output_dir": "annotation_results",
+    "coco_data": "results_coco_format",
+    "manually": false,
+    "save_visualization": true,
+    "auto_accept": false,
+    "hand_segmentation_automation": true
+}
